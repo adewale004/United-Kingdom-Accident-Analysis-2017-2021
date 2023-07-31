@@ -27,7 +27,7 @@ The accident data was obtained from [data.gov.uk](https://www.data.gov.uk/datase
 - The majority of accidents occurred on weekdays, with Friday having the highest number of accidents.
 - The most common time of the day for accidents was between 3pm to 6pm.
 
-## Data Source
+## Dashboard
 
 Link to dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOGYyYWUyYTMtODAxNC00MGQ4LTlhYWUtMjQ1Nzc4NWRlNDI1IiwidCI6IjdlMWQwY2JlLTA0YjgtNDBmYS04MGVjLWU4ZTYyYmYzNzNiZCJ9).
 
